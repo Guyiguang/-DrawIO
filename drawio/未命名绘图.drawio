@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T11:42:06.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="aq4JMrLwAAnAYvFFFrTR" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-08T13:08:05.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="DS1WLjQSbUyYAybRj_eX" version="20.3.0" type="github" pages="3">
   <diagram name="技术平台和干系部门的交互逻辑" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="2475" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ly6oCwVcnBT9jpukTr7g" name="技术平台人才孵化逻辑">
-    <mxGraphModel dx="1375" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
             <mxRectangle width="49" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wcFYW1J67ZfwawfBEp3H-10" value="技术平台应用" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;" vertex="1" parent="wcFYW1J67ZfwawfBEp3H-8">
+        <mxCell id="wcFYW1J67ZfwawfBEp3H-10" value="技术平台应用及问题分析解决" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;" vertex="1" parent="wcFYW1J67ZfwawfBEp3H-8">
           <mxGeometry x="49" width="176" height="30" as="geometry">
             <mxRectangle width="176" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -339,7 +339,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ab5j0enmJaBu2KDOIFZQ-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="309" width="27.5" height="30" as="geometry" />
+          <mxGeometry x="449.25" y="300" width="27.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ab5j0enmJaBu2KDOIFZQ-35" value="平台应用与开发技能培养6个月必须经历项目实战" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="409" y="50" width="280" height="30" as="geometry" />
@@ -365,10 +365,10 @@
           <mxGeometry x="405" y="170" width="228" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ab5j0enmJaBu2KDOIFZQ-57" value="人才输送/人才置换" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="506" y="380" width="86" height="30" as="geometry" />
+          <mxGeometry x="488" y="400" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ab5j0enmJaBu2KDOIFZQ-58" value="人才输送/人才置换" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="380" width="86" height="30" as="geometry" />
+          <mxGeometry x="279" y="400" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ab5j0enmJaBu2KDOIFZQ-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcFYW1J67ZfwawfBEp3H-20" target="Ab5j0enmJaBu2KDOIFZQ-40">
           <mxGeometry relative="1" as="geometry" />
