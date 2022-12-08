@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T08:19:48.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="dCteXdfiXkJ6h2tx64w8" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-08T08:23:12.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="YGf-XQk1UaVNfhrFFsO8" version="20.3.0" type="github" pages="3">
   <diagram name="技术平台和干系部门的交互逻辑" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
-    <mxGraphModel dx="2475" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2475" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,74 +177,6 @@
         <mxCell id="DhA8-q_MzBF4QpO4vjYx-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0;exitY=0;exitDx=12;exitDy=39;exitPerimeter=0;" edge="1" target="DhA8-q_MzBF4QpO4vjYx-1" parent="1" source="hi9G9Pi7xGboPuBEP533-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="950" y="195" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-16" value="视觉系统方案设计与实施核心技能" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="-140" width="210" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-16">
-          <mxGeometry y="30" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-18" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-17">
-          <mxGeometry width="46" height="30" as="geometry">
-            <mxRectangle width="46" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-19" value="技术平台应用与开发能力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-17">
-          <mxGeometry x="46" width="164" height="30" as="geometry">
-            <mxRectangle width="164" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-16">
-          <mxGeometry y="60" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-21" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-20">
-          <mxGeometry width="46" height="30" as="geometry">
-            <mxRectangle width="46" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-22" value="技术平台复杂方案设计(架构、数据结构等）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-20">
-          <mxGeometry x="46" width="164" height="30" as="geometry">
-            <mxRectangle width="164" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-16">
-          <mxGeometry y="90" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-24" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-23">
-          <mxGeometry width="46" height="30" as="geometry">
-            <mxRectangle width="46" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-25" value="算法应用与开发能力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;strokeColor=#b85450;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-23">
-          <mxGeometry x="46" width="164" height="30" as="geometry">
-            <mxRectangle width="164" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-16">
-          <mxGeometry y="120" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-27" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-26">
-          <mxGeometry width="46" height="30" as="geometry">
-            <mxRectangle width="46" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-28" value="光学评估能力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;strokeColor=#b85450;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-26">
-          <mxGeometry x="46" width="164" height="30" as="geometry">
-            <mxRectangle width="164" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-16">
-          <mxGeometry y="150" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-30" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;dashed=1;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-29">
-          <mxGeometry width="46" height="30" as="geometry">
-            <mxRectangle width="46" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-31" value="AI应用能力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;strokeColor=#b85450;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-29">
-          <mxGeometry x="46" width="164" height="30" as="geometry">
-            <mxRectangle width="164" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
