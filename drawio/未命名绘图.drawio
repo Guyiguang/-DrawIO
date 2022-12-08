@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T03:34:14.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="0mEFyz-oYVqnzuq80tC5" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T03:37:03.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="Rw4_LMigOx5dKNv0ymH4" version="20.3.0" type="github" pages="2">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="2475" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -78,8 +78,8 @@
             <mxPoint x="78" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hi9G9Pi7xGboPuBEP533-34" value="当涉及到框架改动、新平台等复杂定制需求时，技术平台部门指定的TL-TMT成员参与方案设计、方案评审" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="265" width="190" height="70" as="geometry" />
+        <mxCell id="hi9G9Pi7xGboPuBEP533-34" value="当涉及到框架改动、新平台等复杂定制需求时，技术平台部门指定的TL-TMT成员参与方案设计、方案评审、以及方案实施" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="262.5" width="200" height="75" as="geometry" />
         </mxCell>
         <mxCell id="hi9G9Pi7xGboPuBEP533-35" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0;exitY=0;exitDx=28;exitDy=21;exitPerimeter=0;" edge="1" target="hi9G9Pi7xGboPuBEP533-34" parent="1" source="hi9G9Pi7xGboPuBEP533-23">
           <mxGeometry relative="1" as="geometry">
@@ -171,6 +171,14 @@
         <mxCell id="hi9G9Pi7xGboPuBEP533-66" value="方案设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="110" width="70" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ly6oCwVcnBT9jpukTr7g" name="第 2 页">
+    <mxGraphModel dx="1375" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
