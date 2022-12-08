@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T11:06:58.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="2LiAzXH7T-xc3IpCIU66" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-08T11:42:06.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="aq4JMrLwAAnAYvFFFrTR" version="20.3.0" type="github" pages="3">
   <diagram name="技术平台和干系部门的交互逻辑" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="2475" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -407,62 +407,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-14" value="FSLighting" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="150" y="130" width="400" height="400" as="geometry" />
+        <mxCell id="yyGmDedkCPMJGrNhyuMr-49" value="STRANGERS" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#BFB4A9;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-15" value="初级ADE" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-14">
-          <mxGeometry y="40" width="400" height="120" as="geometry" />
+        <mxCell id="yyGmDedkCPMJGrNhyuMr-56" value="技术平台规划与管理" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#397DAA;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-16" value="界面插件开发" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-15">
-          <mxGeometry x="40" width="120" height="120" as="geometry">
-            <mxRectangle width="120" height="120" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="yyGmDedkCPMJGrNhyuMr-73" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="60" y="740" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-17" value="Phase 2" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-15">
-          <mxGeometry x="160" width="120" height="120" as="geometry">
-            <mxRectangle width="120" height="120" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="yyGmDedkCPMJGrNhyuMr-74" value="&lt;font color=&quot;#97d077&quot;&gt;技术平台&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="860" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-18" value="Phase 3" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-15">
-          <mxGeometry x="280" width="120" height="120" as="geometry">
-            <mxRectangle width="120" height="120" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="yyGmDedkCPMJGrNhyuMr-75" value="人才孵化" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="287" y="1150" width="46" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-19" value="中级ADE" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-14">
-          <mxGeometry y="160" width="400" height="120" as="geometry" />
+        <mxCell id="yyGmDedkCPMJGrNhyuMr-79" value="新行业产品开发" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.servers.on_premises_server;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="950" width="44" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-20" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-19">
-          <mxGeometry x="40" width="120" height="120" as="geometry">
-            <mxRectangle width="120" height="120" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="yyGmDedkCPMJGrNhyuMr-81" value="已有行业产品开发" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.on_premises;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="100.5" y="951.5" width="34" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-21" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-19">
-          <mxGeometry x="160" width="120" height="120" as="geometry">
-            <mxRectangle width="120" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-22" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-19">
-          <mxGeometry x="280" width="120" height="120" as="geometry">
-            <mxRectangle width="120" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-23" value="高级ADE" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-14">
-          <mxGeometry y="280" width="400" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-24" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-23">
-          <mxGeometry x="40" width="120" height="120" as="geometry">
-            <mxRectangle width="120" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-25" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-23">
-          <mxGeometry x="160" width="120" height="120" as="geometry">
-            <mxRectangle width="120" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yyGmDedkCPMJGrNhyuMr-26" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;dashed=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="yyGmDedkCPMJGrNhyuMr-23">
-          <mxGeometry x="280" width="120" height="120" as="geometry">
-            <mxRectangle width="120" height="120" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="yyGmDedkCPMJGrNhyuMr-83" value="技术平台规划与开发" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.general.continuous_cycle;fillColor=#ffffff;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
+          <mxGeometry x="286" y="765" width="48" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
