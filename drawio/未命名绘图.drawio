@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T03:46:09.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="aNAAyeBRbHv9jTINPGvi" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-08T03:49:24.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="9r5CLOGQI43ZF_L6zec5" version="20.3.0" type="github" pages="2">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="2475" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
             <mxRectangle width="46" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-25" value="算法应用与开发能力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#d80073;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-23">
+        <mxCell id="DhA8-q_MzBF4QpO4vjYx-25" value="算法应用与开发能力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;strokeColor=#b85450;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-23">
           <mxGeometry x="46" width="164" height="30" as="geometry">
             <mxRectangle width="164" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -229,7 +229,7 @@
             <mxRectangle width="46" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-28" value="光学评估能力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#d80073;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-26">
+        <mxCell id="DhA8-q_MzBF4QpO4vjYx-28" value="光学评估能力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;strokeColor=#b85450;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-26">
           <mxGeometry x="46" width="164" height="30" as="geometry">
             <mxRectangle width="164" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -242,7 +242,7 @@
             <mxRectangle width="46" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DhA8-q_MzBF4QpO4vjYx-31" value="AI应用能力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#d80073;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-29">
+        <mxCell id="DhA8-q_MzBF4QpO4vjYx-31" value="AI应用能力" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;dashed=1;strokeColor=#b85450;" vertex="1" parent="DhA8-q_MzBF4QpO4vjYx-29">
           <mxGeometry x="46" width="164" height="30" as="geometry">
             <mxRectangle width="164" height="30" as="alternateBounds" />
           </mxGeometry>
