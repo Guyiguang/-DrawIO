@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T06:22:06.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="uiEYS5b5XNlskynRGMwI" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-09T06:26:18.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="YDtRD901cqRAbd3ImFPh" version="20.3.0" type="github" pages="4">
   <diagram name="技术平台和干系部门的交互逻辑" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="2475" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -442,26 +442,74 @@
         <mxCell id="ol09vNK_3Msg8xmNpoEk-150" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="200" y="100" width="1790" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ol09vNK_3Msg8xmNpoEk-151" value="模切产品线" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-151" value="模切产品线" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="200" y="250" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ol09vNK_3Msg8xmNpoEk-154" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="ol09vNK_3Msg8xmNpoEk-152" target="ol09vNK_3Msg8xmNpoEk-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol09vNK_3Msg8xmNpoEk-152" value="FS-Lighting-MQV1.3&lt;br&gt;易用性版本" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="381" y="240" width="88" height="70" as="geometry" />
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-152" value="FS-Lighting-MQV1.3&lt;br&gt;易用性版本" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="422" y="250" width="88" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ol09vNK_3Msg8xmNpoEk-153" value="2023年2月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="381" y="90" width="89" height="40" as="geometry" />
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-153" value="2023年3月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="422" y="90" width="89" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ol09vNK_3Msg8xmNpoEk-156" value="FS-Lighting-MQV1.4&lt;br&gt;易用性版本" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="530" y="240" width="100" height="70" as="geometry" />
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-156" value="FS-Lighting-MQV1.4&lt;br&gt;易用性版本" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="581" y="250" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ol09vNK_3Msg8xmNpoEk-157" value="FS-Lighting-MQV1.4&lt;br&gt;易用性版本" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="690" y="240" width="100" height="70" as="geometry" />
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-157" value="FS-Lighting-MQV1.4&lt;br&gt;易用性版本" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="731" y="250" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ol09vNK_3Msg8xmNpoEk-158" value="模切产品线" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="430" width="60" height="60" as="geometry" />
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-158" value="切卷一体机" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-160" value="FS-Lighting-MQV1.3&lt;br&gt;易用性版本" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="745" width="88" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-161" value="涂布" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="409" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-162" value="叠片台" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-165" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="ol09vNK_3Msg8xmNpoEk-163" target="ol09vNK_3Msg8xmNpoEk-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-163" value="FS-Lighting-TBV1.0&lt;br&gt;基础功能" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="334" y="399" width="88" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-164" value="2023年2月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="334" y="90" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-166" value="2023年1月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="245" y="90" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-167" value="2023年3月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="688" y="90" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-168" value="2023年2月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="90" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-169" value="2023年1月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="511" y="90" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-170" value="2023年3月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="954" y="90" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-171" value="2023年2月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="866" y="90" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-172" value="2023年1月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="777" y="90" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-173" value="2023年3月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="90" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-174" value="2023年2月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1132" y="90" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ol09vNK_3Msg8xmNpoEk-175" value="2023年1月" style="ellipse;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="90" width="89" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
