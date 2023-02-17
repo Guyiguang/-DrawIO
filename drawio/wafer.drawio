@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T03:41:23.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="d_KUAnbXPwaqDRyG7flh" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-17T03:43:19.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="2rr3BjKHXAfWItWhRyTF" version="20.8.20" type="github" pages="3">
   <diagram name="第 1 页" id="p8ck5x74KDtnNAqTxpPJ">
     <mxGraphModel dx="1387" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,7 +360,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ztHKZ7Lw4EowB1hss6oj-1" value="" style="whiteSpace=wrap;html=1;fontColor=none;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="40" y="50" width="1260" height="860" as="geometry" />
+          <mxGeometry x="40" y="50" width="1260" height="830" as="geometry" />
         </mxCell>
         <mxCell id="ztHKZ7Lw4EowB1hss6oj-12" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="670" width="1000" height="170" as="geometry" />
@@ -685,7 +685,7 @@
           <mxGeometry x="985" y="552.35" width="80" height="73.87" as="geometry" />
         </mxCell>
         <mxCell id="o2Slw7LK0s9BTdAhODGy-9" value="复判中" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="291.68" y="553.5" width="90" height="60" as="geometry" />
+          <mxGeometry x="291.68" y="553.5" width="90" height="66.5" as="geometry" />
         </mxCell>
         <mxCell id="o2Slw7LK0s9BTdAhODGy-10" value="实时刷新" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="553.5" width="70" height="66.5" as="geometry" />
@@ -713,6 +713,12 @@
         </mxCell>
         <mxCell id="o2Slw7LK0s9BTdAhODGy-19" value="强制OK" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1201" y="553.5" width="80" height="70.25" as="geometry" />
+        </mxCell>
+        <mxCell id="o2Slw7LK0s9BTdAhODGy-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#393939;strokeColor=#393939;" vertex="1" parent="1">
+          <mxGeometry x="633.37" y="51.5" width="666.63" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="o2Slw7LK0s9BTdAhODGy-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#393939;strokeColor=#393939;" vertex="1" parent="1">
+          <mxGeometry x="40" y="850" width="630" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
