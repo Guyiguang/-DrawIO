@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T08:58:15.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="sgze6yqwGiC3uevfijJ-" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T09:01:08.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="rE_GhkNKOZ3tXaFK0io9" version="21.1.1" type="github">
   <diagram name="第 1 页" id="UZ4egAG0o7tEr1WiE8b2">
     <mxGraphModel dx="1377" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,6 +165,9 @@
         </mxCell>
         <mxCell id="Z1307xzisx2XiNyjA5QF-80" value="发送处理结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1307xzisx2XiNyjA5QF-85" value="算法直接返回，通过注册机制将后续执行过程交由AI的结果进行触发" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3333;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="200" y="314" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
